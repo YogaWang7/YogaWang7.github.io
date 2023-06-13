@@ -8,9 +8,9 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). At now I am in my second year of 
 
 ## Research Interests
 
-- AI for good. 
-- Driven by real-world data-driven problems, I hope my research could understand and predict human behavior in order to provide better solutions for society.
-- Leverage domain knowledge, such as game theory, and other theoretical models to enhance neural network methods.
+- AI for good + real-world data-driven problems.
+- Undertand and predict human behavior in order to provide better solutions for society.
+- Leverage domain knowledge or theoretical models, such as game theory, to enhance neural network methods.
 
 Education
 ======
