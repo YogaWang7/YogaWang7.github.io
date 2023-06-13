@@ -25,9 +25,10 @@ Awards and Scholarships
   - Second-class Freshman Scholarship.
   - Excellent Student Leader.
 - In HZAU (2016-2020)
+  - Second-class Academic Scholarship.
   - Merit Student and Excellent League Member, 3 years in a row. 
   - Excellent Student Leader.
-  - Second-class Academic Scholarship.
+  - Second Prize in the National English Competition for College Students. (Top 3% of HZAU)
 
 
 <!-- {% include_relative _includes/services.md %} -->
