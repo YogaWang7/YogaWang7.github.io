@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><font color=#0073B1>Human Behavior Prediction in Penny Auctions</font>></div>
+    <div class="title"><font color=#0073B1>Human Behavior Prediction in Penny Auctions</font></div>
     <div class="author"><strong>Yujia Wang#</strong>, Haoran Yu</div>
     <div class="periodical"><em>In preparation for AAAI24</em></div>
   </div>
@@ -37,7 +37,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><font color=#0073B1>Depressive Community Detection and Analysis</font>></div>
+    <div class="title"><font color=#0073B1>Depressive Community Detection and Analysis</font></div>
     <div class="author">In alphabetic order: Hangyun Tang, Penghui Ruan, Yangtao Deng, <strong>Yujia Wang</strong>. </div>
     <div class="periodical"><em>One of summer workshop programs at the National University of Singapore. The topic is "Mining Communities in Big-Data with Algorithms and Computational Thinking" supervised by Professor Hon-Wai Leong.</em></div>
     <div class="links">
@@ -65,7 +65,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><font color=#0073B1>AFSBN: A Method of Artificial Fish Swarm Optimizing Bayesian Network for Epistasis Detection</font>f></div>
+    <div class="title"><font color=#0073B1>AFSBN: A Method of Artificial Fish Swarm Optimizing Bayesian Network for Epistasis Detection</font></div>
     <div class="author">Liguang Wang#, <strong>Yujia Wang#</strong>, Yi Fu, Yunge Gao, Jiawei Du, Chen Yang, Jianxiao Liu</div>
     <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (TCBB, SCI, IF=3.702, DOI: 10.1109/TCBB.2019.2949780)</em></div>
     <div class="links">
