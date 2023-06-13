@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><font color=#0073B1>Human Behavior Prediction in Penny Auctions</font></div>
+    <div class="title" style="color:#0073B1">Human Behavior Prediction in Penny Auctions></div>
     <div class="author"><strong>Yujia Wang#</strong>, Haoran Yu</div>
     <div class="periodical"><em>In preparation for AAAI24</em></div>
   </div>
