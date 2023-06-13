@@ -14,7 +14,7 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). At now I am in my second year of 
 
 Education
 ======
-I completed **(with honors)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020 and I will a MSc in Computer Science at Beijing Institute University ([BIT](https://english.bit.edu.cn/)) in 2024.
+I completed **(with honors)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020 and I will finish a MSc in Computer Science at Beijing Institute University ([BIT](https://english.bit.edu.cn/)) in 2024.
 
 {% include_relative _includes/publications.md %}
 
