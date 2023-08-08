@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">Human Behavior Prediction in Penny Auctions</div>
+    <div class="title" style="color:#0073B1">Predicting Real-World Penny Auction Durations by Integrating Game Theory and Machine Learning</div>
     <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
     <div class="periodical"><em>In preparation for AAAI24</em></div>
   </div>
@@ -21,9 +21,8 @@
 </li>
 </ol>
 </div>
-
-  - This research focuses on a specific type of auction called Penny Auctions, aiming to predict bidder behavior. 
-  - Without obtaining any private information, we attempt to extract domain knowledge from limited feature information through game theory models, and then use neural networks to enhance the prediction accuracy of auction results.
+  - We focus on the interactions among real bidders in penny auctions and develop a three-stage framework to predict the distributions of auction durations. 
+  - Game theory-based and machine learning-based prediction approaches have their own drawbacks in predicting human behavior in strategic environments. Our framework **integrates** these two methods to address these weaknesses.
 
 <div class="publications">
 <ol class="bibliography">
