@@ -13,14 +13,14 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). At now I am in my second year of 
 - Leverage domain knowledge or theoretical models, such as game theory, to enhance neural network methods.
 
 # Education
-======
+
 - I will finish a MSc in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by <a href = "https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ">Haoran Yu</a>.
 - I have completed **(with honors)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020. 
 
 {% include_relative _includes/publications.md %}
 
 # Awards and Scholarships 
-======
+
 - In BIT (2021-Present)
   - First-class Academic Scholarship.
   - Second-class Freshman Scholarship.
