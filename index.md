@@ -31,10 +31,12 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
   - Excellent Student Leader in 2018-2019. (one of the two recipients in the college)
   - Second Prize in the National English Competition for College Students. (Top 3% of HZAU)
 
-{% include_relative _includes/services.md %} 
+<!--{% include_relative _includes/services.md %} -->
+# Internships
+### Data Scientist
+- Taikang Insurance Group - Active Health Lab
+- Clean structural & unstructural Data. Use machine learning methods to predict whether there are malicious invoices happening or potential fraud communities.
 
-<!--# Internships
-- Machine Learning Engineer/ Researcher in Taikang Insurance Group([Taikang]). It is *Fortune Global 500* and one of China’s largest insurance and financial services institutions -->
 
 
 
