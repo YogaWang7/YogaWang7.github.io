@@ -1,10 +1,8 @@
 ## Internship
 
-<h4 style="margin:0 10px 0;">xData Scientist</h4>
+<h4 style="margin:0 10px 0;">Data Scientist</h4>
 
 <ul style="margin:0 0 5px;">
-  Taikang Insurance Group - Active Health Lab - Data Scientist
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="https://www.taikang.com/about_en.html"><autocolor>Taikang Insurance Group</a> - Active Health Lab </autocolor></li>
+  <li><autocolor>Clean structural & unstructural Data. Use machine learning methods to predict whether there are malicious invoices happening or potential fraud communities.</autocolor></li>
 </ul>
