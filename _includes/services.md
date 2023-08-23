@@ -1,5 +1,5 @@
-
 <h2 id="publications" style="margin: 2px 0px -15px;">Internships</h2>
+
 <h4 style="margin:0 10px 0;">Data Scientist</h4>
 
 <ul style="margin:0 0 5px;">
