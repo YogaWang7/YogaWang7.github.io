@@ -14,13 +14,12 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 
 # Education
 
-- I will finish an MSc in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by <a href = "https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ">Haoran Yu</a>.
-- I have completed **(with honors)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020. 
+- I will finish an MSc in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
+- I have completed **(cum laude)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
 
 # Awards and Scholarships 
-
 - In BIT (2021-Present)
   - First-class Academic Scholarship.
   - Second-class Freshman Scholarship.
@@ -28,15 +27,22 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 - In HZAU (2016-2020)
   - Second-class Academic Scholarship.
   - Merit Student and Excellent League Member, 3 years in a row. 
-  - Excellent Student Leader in 2018-2019. (one of the two recipients in the college)
-  - Second Prize in the National English Competition for College Students. (Top 3% of HZAU)
+  - Excellent Student Leader in 2018-2019 (Top 1\%).
+  - Second Prize in the National English Competition for College Students (Top 3% of HZAU).
 
 <!--{% include_relative _includes/services.md %} -->
-# Internships
-### Data Scientist
-- Taikang Insurance Group - Active Health Lab
-- Clean structural & unstructural Data. Use machine learning methods to predict whether there are malicious invoices happening or potential fraud communities.
 
+# Internship
+### Data Scientist in Research Institute of Taikang Insurance Group, Beijing, China.
+- Given invoice data and relevant insurance case data, applied machine learning techniques to identify potential fraudulent invoices.
+  - Improved prediction accuracy by 3 times compared to previous methods.
+- Cleaned data in Neo4j Database. Then investigated potential fraud communities
 
-
-
+# Additional Activities
+- Volunteering activities.
+  - Used to help kids from rural places improve their academic performance.
+  - Served as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
+- When I'm not working, I like to 
+  - play Ping Pong,
+  - stay with my cats,
+  - enjoy books.
