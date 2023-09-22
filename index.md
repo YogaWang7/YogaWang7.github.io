@@ -18,8 +18,7 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 - I have completed **(cum laude)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/experiences.md %}
 
 # Awards and Scholarships 
 - In BIT (2021-Present)
