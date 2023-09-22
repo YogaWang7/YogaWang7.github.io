@@ -30,13 +30,7 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
   - Excellent Student Leader in 2018-2019 (Top 1\%).
   - Second Prize in the National English Competition for College Students (Top 3% of HZAU).
 
-<!--{% include_relative _includes/services.md %} -->
-
-# Internship
-### Data Scientist in Research Institute of Taikang Insurance Group, Beijing, China.
-- Given invoice data and relevant insurance case data, applied machine learning techniques to identify potential fraudulent invoices.
-  - Improved prediction accuracy by 3 times compared to previous methods.
-- Cleaned data in Neo4j Database. Then investigated potential fraud communities
+{% include_relative _includes/services.md %}
 
 # Additional Activities
 - I enjoy volunteering work.
