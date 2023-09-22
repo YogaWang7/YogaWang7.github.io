@@ -39,10 +39,10 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 - Cleaned data in Neo4j Database. Then investigated potential fraud communities
 
 # Additional Activities
-- Volunteering activities.
+- I enjoy volunteering work.
   - Used to help kids from rural places improve their academic performance.
   - Served as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
 - When I'm not working, I like to 
-  - play Ping Pong,
+  - play Ping Pong or try other sports,
   - stay with my cats,
-  - enjoy books.
+  - enjoy reading books.
