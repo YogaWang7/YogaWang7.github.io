@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Research Experience</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Research Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title" style="color:#0073B1">Predicting Real-World Penny Auction Durations by Integrating Game Theory and Machine Learning</div>
     <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
-    <div class="periodical"><em>Under Review: AAAI 2024</em></div>
+    <div class="periodical"><em>Under Review</em></div>
   </div>
 
 </div>
@@ -65,18 +65,15 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title" style="color:#0073B1">AFSBN: A Method of Artificial Fish Swarm Optimizing Bayesian Network for Epistasis Detection</div>
-    <div class="author">Liguang Wang#, <strong>Yujia Wang#</strong>, Yi Fu, Yunge Gao, Jiawei Du, Chen Yang, Jianxiao Liu</div>
-    <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (TCBB, SCI, IF=3.702, DOI: 10.1109/TCBB.2019.2949780)</em></div>
+    <div class="author">Liguang Wang#, <strong>Yujia Wang#</strong>, Yi Fu, Yunge Gao, Jiawei Du, Chen Yang, Jianxiao Liu*</div>
+    <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics(<strong>TCBB</strong>, DOI: 10.1109/TCBB.2019.2949780)</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">LINK</a>
     </div>
   </div>
-
 </div>
 </li>
 </ol>
 </div>
-
-  - With mutual information and the Bayesian method, we aim to predict the interactions between genes (epistasis). 
-  - The article was awarded as one of the "Top Ten Innovations and Entrepreneurship Projects" (university level) in 2019.
-
+  - Applied Artificial Fish Swarm Algorithm to optimize the structure of the Bayesian network to predict the interactions between genes (epistasis).
+  - Utilized mutual information to efficiently initialize the structure of Bayesian networks, ensuring the optimization a good start.
