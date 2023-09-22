@@ -29,8 +29,8 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 - In HZAU (2016-2020)
   - Second-class Academic Scholarship.
   - Merit Student and Excellent League Member, 3 years in a row. 
-  - Excellent Student Leader in 2018-2019 (Top 1\%).
-  - Second Prize in the National English Competition for College Students (Top 3% of HZAU).
+  - Excellent Student Leader in 2018-2019 (Top 1%).
+  - Second Prize in the National English Competition for College Students (Top 3%).
 
 # Internship
 ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
@@ -39,10 +39,10 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 - Cleaned data in Neo4j Database. Then investigated potential fraud communities. 
 
 # Additional Activities
-- I enjoy volunteering work.
+- I enjoy volunteering work:
   - Used to help kids from rural places improve their academic performance.
   - Served as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
-- When I'm not working, I like to 
+- When I'm not working, I like to: 
   - play Ping Pong or try other sports,
   - stay with my cats,
   - enjoy reading books.
