@@ -18,6 +18,7 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 - I have completed **(cum laude)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
 # Awards and Scholarships 
 - In BIT (2021-Present)
@@ -30,7 +31,11 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
   - Excellent Student Leader in 2018-2019 (Top 1\%).
   - Second Prize in the National English Competition for College Students (Top 3% of HZAU).
 
-{% include_relative _includes/services.md %}
+# Internship
+#### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
+- Given invoice data and relevant insurance case data, applied machine learning techniques to identify potential fraudulent invoices.
+  - Improved prediction accuracy by 3 times compared to previous methods.
+- Cleaned data in Neo4j Database. Then investigated potential fraud communities. 
 
 # Additional Activities
 - I enjoy volunteering work.
