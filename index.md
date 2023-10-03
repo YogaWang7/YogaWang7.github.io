@@ -8,14 +8,14 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 
 # Research Interests
 
-- **AI for good + real-world data-driven problems**.
-- Understand and predict human behavior in order to provide better solutions for society.
-- Leverage domain knowledge or theoretical models, such as game theory, to enhance neural network methods.
+- **AI for good**.
+- Develop and deploy AI solutions to address real-world data-driven problems and create more social impact.
+- Employ an interdisciplinary approach, such as integrating insights from psychology, sociology, and economics, to make AI-based solutions explainable and insightful.
 
 # Education
 
-- I will finish an MSc in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
-- I have completed **(cum laude)** a BSc in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
+- I will finish an MRes. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
+- I have completed **(cum laude)** a BSc. in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
 
@@ -34,13 +34,13 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 
 # Internship
 ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
-- Given invoice data and relevant insurance case data, applied machine learning techniques to identify potential fraudulent invoices.
+- Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
   - Improved prediction accuracy by 3 times compared to previous methods.
-- Cleaned data in Neo4j Database. Then investigated potential fraud communities. 
+  - Discovered new characteristics of insurance fraud.
+- Cleaned data in the Neo4j Database and investigated potential fraud communities. 
 
 # Additional Activities
 - I enjoy volunteering work:
-  - Used to help kids from rural places improve their academic performance.
   - Served as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
 - When I'm not working, I like to: 
   - play Ping Pong or try other sports,
