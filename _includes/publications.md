@@ -21,8 +21,8 @@
 </li>
 </ol>
 </div>
-  - We focus on the interactions among real bidders in penny auctions and develop a three-stage framework to predict the distributions of auction durations. 
-  - Game theory-based and machine learning-based prediction approaches have their own drawbacks in predicting human behavior in strategic environments. Our framework **integrates** these two methods to address these weaknesses.
+  - Developed a three-stage framework integrating game theory and machine learning to predict human behaviors in strategic environments (e.g., penny auctions).
+  - This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even when there exists a large domain shift.
 
 <div class="publications">
 <ol class="bibliography">
@@ -40,12 +40,11 @@
     <div class="author">Liguang Wang#, <strong>Yujia Wang#</strong>, Yi Fu, Yunge Gao, Jiawei Du, Chen Yang, Jianxiao Liu*</div>
     <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics(<strong>TCBB</strong>, DOI: 10.1109/TCBB.2019.2949780)</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">LINK</a>
+      <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
     </div>
   </div>
 </div>
 </li>
 </ol>
 </div>
-  - Applied Artificial Fish Swarm Algorithm to optimize the structure of the Bayesian network to predict the interactions between genes (epistasis).
-  - Utilized mutual information to efficiently initialize the structure of Bayesian networks, ensuring the optimization a good start.
+  - Aimed to detect the interactions between genes (e.g., epistasis) by optimizing the structure of the Bayesian Network using the Artificial Fish Swarm Algorithm.
