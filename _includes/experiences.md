@@ -24,6 +24,4 @@
 </li>
 </ol>
 </div>
-
-  - We aim to construct a social network of Weibo users based on text similarity, in order to identify potential "depressive" groups through community analysis.
-  - As the **team leader**, I proposed and participated in the research project "Depressive Community Detection and Analysis". The personal grade is A-.
+  - Built a social network of Weibo (China's equivalent of Twitter) users based on text similarity and utilized community detection algorithms to identify potential "depressive" groups and their features (e.g., possible causes of depression).
