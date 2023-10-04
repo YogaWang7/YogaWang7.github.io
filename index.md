@@ -42,7 +42,7 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 # Additional Activities
 - I like sharing knowledge.
   - I used to serve as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
-  - I write personal technical blogs (in Chinese though) and make sure they are well-organized and can fill knowledge gaps online. Thus most of my blogs receive a lot of comments and likes and I love discussing issues with people in the comments section.
+  - I wrote personal technical blogs (in Chinese though). Most of my blogs could receive a lot of likes and I loved discussing issues with people in the comment section.
 - When I'm not working, I like to: 
   - play Ping Pong or try other sports,
   - stay with my <span id="catToggle">cats</span>,
