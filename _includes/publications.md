@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">Predicting Human Behaviors by Integrating Game Theory and Machine Learning</div>
+    <div class="title" style="color:#0073B1">Predicting Human Behavior by Integrating Game Theory and Machine Learning</div>
     <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
     <div class="periodical"><em>Under Review</em></div>
   </div>
@@ -21,7 +21,7 @@
 </li>
 </ol>
 </div>
-  - Developed a three-stage framework integrating game theory and machine learning to predict human behaviors in strategic environments (e.g., auctions).
+  - Developed a three-stage framework integrating game theory and machine learning to predict human behavior in strategic environments (e.g., auctions).
   - This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even when there exists a large domain shift.
 
 <div class="publications">
