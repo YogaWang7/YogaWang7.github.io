@@ -41,7 +41,8 @@
     <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics(<strong>TCBB</strong>, DOI: 10.1109/TCBB.2019.2949780)</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
-      <button class="btn btn-sm z-depth-0" id="toggleAbstract" style="font-size:12px;">Abstract</button>         
+      <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="toggleAbstract" role="button" style="font-size:12px;">Abstract</a>
+<!--       <button class="btn btn-sm z-depth-0" id="toggleAbstract" style="font-size:12px;">Abstract</button>          -->
       <div id="abstractContent" style="display:none;">
           这是文章的摘要内容...
       </div>
