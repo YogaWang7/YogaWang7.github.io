@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">Predicting Real-World Penny Auction Durations by Integrating Game Theory and Machine Learning</div>
+    <div class="title" style="color:#0073B1">Predicting Human Behaviors by Integrating Game Theory and Machine Learning</div>
     <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
     <div class="periodical"><em>Under Review</em></div>
   </div>
@@ -44,7 +44,7 @@
       <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="toggleAbstract" role="button" style="font-size:12px;">Abstract</a>
 <!--       <button class="btn btn-sm z-depth-0" id="toggleAbstract" style="font-size:12px;">Abstract</button>          -->
       <div id="abstractContent" style="display:none;">
-          这是文章的摘要内容...
+          How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when to tackle the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using artificial fish swarm optimizing Bayesian network (AFSBN). This method uses the characteristics of global optimization, good robustness and fast convergence about the artificial fish swarm algorithm, and uses the algorithm into the heuristic search strategy of Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment, and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.
       </div>
     </div>
   </div>
