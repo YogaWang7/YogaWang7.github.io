@@ -45,5 +45,6 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
   - I write personal technical blogs (in Chinese though) and make sure they are well-organized and can fill knowledge gaps online. Thus most of my blogs receive a lot of comments and likes and I love discussing issues with people in the comments section.
 - When I'm not working, I like to: 
   - play Ping Pong or try other sports,
-  - stay with my cats,
+  - stay with my <span id="catToggle">cats</span>,
   - enjoy reading books.
+<img id="catImage" src="/assets/img/PA.png" style="display:none;">
