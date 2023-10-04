@@ -21,7 +21,7 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
 
 {% include_relative _includes/experiences.md %}
 
-{% # Awards and Scholarships 
+<!-- # Awards and Scholarships 
 - In BIT (2021-Present)
   - First-class Academic Scholarship.
   - Second-class Freshman Scholarship.
@@ -30,8 +30,8 @@ Hello! My name is Yujia Wang (CHN: 王宇佳). Now I am in my third year of grad
   - Second-class Academic Scholarship.
   - Merit Student and Excellent League Member, 3 years in a row. 
   - Excellent Student Leader in 2018-2019 (Top 1%).
-  - Second Prize in the National English Competition for College Students (Top 3%).
- %}
+  - Second Prize in the National English Competition for College Students (Top 3%). -->
+  
 # Internship
 ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
 - Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
