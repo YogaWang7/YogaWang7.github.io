@@ -48,7 +48,7 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
   - stay with my <a href="javascript:void(0);" onclick="toggleImage()">cats</a>,
   - read books, including non-fictions and poems.
 <div id="catImage" style="display:none;">
-  <img src="/assets/img/PA.png" alt="Cat Image" />
+  <img src="/assets/img/cats.jpg" alt="Cat Image" />
 </div>
 
 
