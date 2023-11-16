@@ -14,7 +14,6 @@
     <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
     <div class="periodical"><em>Under Review</em></div>
     <div class="links">
-      <a href="https://sws.comp.nus.edu.sg/2019/WEFiles/Image/Gallery/cd06b6bd-7acf-42a2-a018-bb36aad4c5de/5%20-%20Wm7rCwQ-2.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="toggleAbstract" role="button" style="font-size:12px;">Abstract</a>
       <div id="abstractContent" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
         How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.      </div>
@@ -44,7 +43,10 @@
     <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics(<strong>TCBB</strong>, DOI: 10.1109/TCBB.2019.2949780)</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
-    </div>
+      <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="toggleAbstract-2" role="button" style="font-size:12px;">Abstract</a>
+      <div id="abstractContent-2" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
+        How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.      </div>
+      </div>
   </div>
 
 </div>
@@ -57,6 +59,10 @@
 $(document).ready(function() {
     $("#toggleAbstract").click(function() {
         $("#abstractContent").toggle();
+    });
+
+    $("#toggleAbstract-1").click(function() {
+        $("#abstractContent-1").toggle();
     });
 });
 </script>
