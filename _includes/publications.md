@@ -21,7 +21,6 @@
           How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.
     </div>
   </div>
-
 </div>
 </li>
 </ol>
@@ -63,6 +62,9 @@
 $(document).ready(function() {
     $("#toggleAbstract").click(function() {
         $("#abstractContent").toggle();
+    });
+  $("#toggleAbstract-1").click(function() {
+        $("#abstractContent-1").toggle();
     });
 });
 </script>
