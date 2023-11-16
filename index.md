@@ -46,8 +46,10 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 - When I'm not working, I like to: 
   - play Ping Pong or try other sports,
   - stay with my <a href="javascript:void(0);" onclick="toggleImage()">cats</a>,
-  - enjoy extensive reading, including poems and non-fictions.
- 
+  - enjoy extensive reading, including <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="poem">poems</a> and non-fictions.
+ <div id="poemContent" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
+  My favorite poets include Realke, 
+ </div>
 <div id="catImage" style="display:none;">
   <img src="/assets/img/PA.png" alt="Cat Image" />
 </div>

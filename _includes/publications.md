@@ -18,8 +18,10 @@
       <div id="abstractContent" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
         Game theory and machine learning are two widely used techniques for predicting the outcomes of strategic interactions among humans. However, the game theory-based approach often relies on strong rationality and informational assumptions, while the machine learning-based approach typically requires the testing data to come from the same distribution as the training data. Our work studies how to integrate the two techniques to address these weaknesses. We focus on the interactions among real bidders in penny auctions, and develop a three-stage framework to predict the distributions of auction durations, which indicate the numbers of bids and auctioneer revenues. Specifically, we first leverage a pre-trained neural network to encode the descriptions of products in auctions into embeddings. Second, we apply game theory models to make preliminary predictions of auction durations. In particular, we tackle the challenge of accurately inferring parameters in game theory models. Third, we develop a Multi-Branch Mixture Density Network to learn the mapping from product embeddings and game-theoretic predictions to the distributions of actual auction durations. Experiments on real-world penny auction data demonstrate that our framework outperforms both game theory-based and machine learning-based prediction approaches.    
       </div>
+    </div>
   </div>
 </div>
+
 </li>
 </ol>
 </div>
@@ -45,10 +47,12 @@
       <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
       <a href="javascript:void(0);" class="btn btn-sm z-depth-0 toggleAbstract" data-abstract="abstractContent" role="button" style="font-size:12px;">Abstract</a>
       <div id="abstractContent" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
-        How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.      </div>
+        How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.      
       </div>
+    </div>
   </div>
 </div>
+
 </li>
 </ol>
 </div>
