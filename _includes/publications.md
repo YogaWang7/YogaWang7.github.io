@@ -1,65 +1,99 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Research Publications</h2>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<h1 id="publications"></h1>
+
+<h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.uni-trier.de/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+
 
 <div class="publications">
 <ol class="bibliography">
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/PA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Under Review</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">Predicting Human Behavior by Integrating Game Theory and Machine Learning</div>
-    <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
-    <div class="periodical"><em>Under Review</em></div>
-    <div class="links">
-      <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="toggleAbstract-1" role="button" style="font-size:12px;">Abstract</a>
-      <div id="abstractContent-1" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  
-        How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.
-       </div>
-     </div>
-   </div>
-</div>
-</li>
-
-- Developed a three-stage framework integrating game theory and machine learning to predict human behavior in strategic environments (e.g., auctions).
-- This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even when there exists a large domain shift.
+{% for link in site.data.publications.main %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/AFSBN.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TCBB</abbr>
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+            <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">AFSBN: A Method of Artificial Fish Swarm Optimizing Bayesian Network for Epistasis Detection</div>
-    <div class="author">Liguang Wang#, <strong>Yujia Wang#</strong>, Yi Fu, Yunge Gao, Jiawei Du, Chen Yang, Jianxiao Liu*</div>
-    <div class="periodical"><em>IEEE/ACM Transactions on Computational Biology and Bioinformatics(<strong>TCBB</strong>, DOI: 10.1109/TCBB.2019.2949780)</em></div>
-    <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/8884123" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
-      <a href="javascript:void(0);" class="btn btn-sm z-depth-0" id="toggleAbstract" role="button" style="font-size:12px;">Abstract</a>
-      <div id="abstractContent" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
-        How to mine the interaction between SNPs (namely epistasis) efficiently and accurately must be considered when tackling the complexity of underlying biological mechanisms. In order to overcome the defect of low learning efficiency and local optimal, this work proposes an epistasis mining method using Artificial Fish Swarm optimizing Bayesian Network (AFSBN). This method uses the characteristics of global optimization, good robustness, and fast convergence of the artificial fish swarm algorithm, and uses the algorithm in the heuristic search strategy of the Bayesian network. The initial network structure can be evolved through the manipulations of foraging behavior, clustering behavior, tail-chasing behavior, and random behavior. This algorithm chooses different behaviors to modify the network state according to the changing of the surrounding environment and the states of partners. It realizes the interaction between each artificial fish and its neighboring environment and finally finds the optimal network in the population. We compared AFSBN with other existing algorithms on both simulated and real datasets. The experimental results demonstrate that our method outperforms others in epistasis detection accuracy in the case of not affecting the efficiency basically for different datasets.
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.conference }}</em>
       </div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% endif %}
+      {% if link.page %} 
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.notes %} 
+      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.others %} 
+      {{ link.others }}
+      {% endif %}
     </div>
   </div>
 </div>
 </li>
 
-- Aimed to detect the interactions between genes (e.g., epistasis) by optimizing the structure of the Bayesian Network using the Artificial Fish Swarm Algorithm.
+<br>
 
+{% endfor %}
 
-<script>
-$(document).ready(function() {
-    $("#toggleAbstract").click(function() {
-        $("#abstractContent").toggle();
-    });
-  $("#toggleAbstract-1").click(function() {
-        $("#abstractContent-1").toggle();
-    });
-});
-</script>
-</oi>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html">Meta-Transfer Learning for Few-Shot Learning</a></div>
+      <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong> (equal contribution), Tat-Seng Chua, Bernt Schiele </div>
+      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
+      </div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://lyy.mpi-inf.mpg.de/mtl/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/SunLCS19.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+<br>
+<strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">600+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Featured in NUS News</i></a></strong>
+<br>
+<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2023&vq=en&cstart=100"><i>Top 120 Most Cited CVPR Papers over the Last Five Years</i></a></strong>
+  <script>
+  githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
+  var startext = document.getElementById("githubstars_mtl");
+        startext.innerHTML=stars;
+  });
+  </script>
+  <script>
+      $(document).ready(function () {
+          
+          var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
+          
+          $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+              var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
+              document.getElementById('total_citation_mtl').innerHTML = totalCitation;
+              var citationEles = document.getElementsByClassName('show_paper_citations')
+              Array.prototype.forEach.call(citationEles, element => {
+                  var paperId = element.getAttribute('data')
+                  var numCitations = data['publications'][paperId]['num_citations']
+                  element.innerHTML = '| Citations: ' + numCitations;
+              });
+          });
+      })
+  </script>
+    </div>
+  </div>
+</div>
+</li>
+
+</ol>
 </div>
