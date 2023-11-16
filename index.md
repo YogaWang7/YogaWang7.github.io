@@ -45,6 +45,20 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
   - I wrote personal technical blogs (in Chinese though). Most of my blogs could receive a lot of likes and I loved discussing issues with people in the comment section.
 - When I'm not working, I like to: 
   - play Ping Pong or try other sports,
-  - stay with my cats,
+  - stay with my <a href="javascript:void(0);" onclick="toggleImage()">cats</a>,
   - enjoy extensive reading, including poems, and non-fictions.
-<img id="catImage" src="/assets/img/PA.png" style="display:none;">
+
+<div id="catImage" style="display:none;">
+  <img src="/assets/img/PA.png" alt="Cat Image" />
+</div>
+
+<script>
+function toggleImage() {
+  var x = document.getElementById("catImage");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
