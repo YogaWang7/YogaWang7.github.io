@@ -60,8 +60,5 @@ $(document).ready(function() {
     $("#toggleAbstract").click(function() {
         $("#abstractContent").toggle();
     });
-  $("#toggleAbstract-1").click(function() {
-        $("#abstractContent-1").toggle();
-    });
 });
 </script>
