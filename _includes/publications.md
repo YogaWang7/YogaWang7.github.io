@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Research Publications</h2>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <div class="publications">
 <ol class="bibliography">
@@ -20,7 +21,7 @@
        </div>
      </div>
    </div>
-  </div>
+</div>
 </li>
 
 - Developed a three-stage framework integrating game theory and machine learning to predict human behavior in strategic environments (e.g., auctions).
@@ -49,10 +50,7 @@
 
 - Aimed to detect the interactions between genes (e.g., epistasis) by optimizing the structure of the Bayesian Network using the Artificial Fish Swarm Algorithm.
 
-</oi>
-</div>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 $(document).ready(function() {
     $("#toggleAbstract").click(function() {
@@ -63,3 +61,5 @@ $(document).ready(function() {
     });
 });
 </script>
+</oi>
+</div>
