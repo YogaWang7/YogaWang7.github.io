@@ -26,8 +26,11 @@
 </ol>
 </div>
 
-  - Developed a three-stage framework integrating game theory and machine learning to predict human behavior in strategic environments (e.g., auctions).
-  - This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even when there exists a large domain shift.
+<ul>
+  <li>Developed a three-stage framework integrating game theory and machine learning to predict human behavior in strategic environments (e.g., auctions).</li>
+  <li>This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even when there exists a large domain shift.</li>
+</ul>
+
 
 <div class="publications">
 <ol class="bibliography">
