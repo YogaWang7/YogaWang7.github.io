@@ -1,0 +1,21 @@
+main:
+
+  - title: Adding 3D Geometry Control to Diffusion Models
+    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> (corresponding author), Alan Yuille
+    conference_short: Preprint
+    conference: Under review.
+    Link: https://arxiv.org/pdf/2306.08103.pdf
+    bibtex: https://bib.yliu.me/arXiv23_1.txt
+    image: https://img.yliu.me/teaser/dst.png
+    Abstract: 11111111111111
+
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> (corresponding author), Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    Link: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
+    image: https://img.yliu.me/teaser/miccai2023.png
+    notes: Early Accept
+    Abstract: 222222
