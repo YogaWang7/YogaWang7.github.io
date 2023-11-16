@@ -34,9 +34,15 @@
 </div>
 </li>
 
+- 12345
+- 45678
+
 <br>
 
 {% endfor %}
+
+</ol>
+</div>
 
 <script>
 $(document).ready(function () {
@@ -55,6 +61,3 @@ $(document).ready(function () {
   });
 });
 </script>
-
-</ol>
-</div>
