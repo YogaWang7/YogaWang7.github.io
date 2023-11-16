@@ -2,7 +2,6 @@
 
 <div class="publications">
 <ol class="bibliography">
-<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -20,7 +19,6 @@
     </div>
   </div>
 </div>
-</li>
 </ol>
 </div>
 
@@ -30,7 +28,6 @@
 
 <div class="publications">
 <ol class="bibliography">
-<li>
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/AFSBN.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TCBB</abbr>
@@ -48,7 +45,6 @@
     </div>
   </div>
 </div>
-</li>
 </ol>
 </div>
 
