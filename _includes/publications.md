@@ -19,6 +19,7 @@
         Game theory and machine learning are two widely used techniques for predicting the outcomes of strategic interactions among humans. However, the game theory-based approach often relies on strong rationality and informational assumptions, while the machine learning-based approach typically requires the testing data to come from the same distribution as the training data. Our work studies how to integrate the two techniques to address these weaknesses. We focus on the interactions among real bidders in penny auctions, and develop a three-stage framework to predict the distributions of auction durations, which indicate the numbers of bids and auctioneer revenues. Specifically, we first leverage a pre-trained neural network to encode the descriptions of products in auctions into embeddings. Second, we apply game theory models to make preliminary predictions of auction durations. In particular, we tackle the challenge of accurately inferring parameters in game theory models. Third, we develop a Multi-Branch Mixture Density Network to learn the mapping from product embeddings and game-theoretic predictions to the distributions of actual auction durations. Experiments on real-world penny auction data demonstrate that our framework outperforms both game theory-based and machine learning-based prediction approaches.    
       </div>
   </div>
+
 </div>
 </li>
 </ol>
@@ -60,9 +61,11 @@ $(document).ready(function() {
     $("#toggleAbstract").click(function() {
         $("#abstractContent").toggle();
     });
-
+});
+$(document).ready(function() {
     $("#toggleAbstract1").click(function() {
         $("#abstractContent1").toggle();
     });
 });
+
 </script>
