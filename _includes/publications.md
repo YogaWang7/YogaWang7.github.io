@@ -10,7 +10,7 @@
     <abbr class="badge">Under Review</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">Depressive Community Detection and Analysis</div>
+    <div class="title" style="color:#0073B1">Predicting human behavior by integrating game theory and machine learning</div>
     <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
     <div class="periodical"><em>Under Review</em></div>
     <div class="links">
@@ -26,7 +26,7 @@
 </ol>
 </div>
 - Developed a three-stage framework integrating game theory and machine learning to predict human behavior in strategic environments (e.g., auctions).
-- This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even when there exists a large domain shift.
+- This framework outperformed game theory-based approaches and machine learning-based approaches on synthetic and real data even under large domain shifts.
 
 <div class="publications">
 <ol class="bibliography">
