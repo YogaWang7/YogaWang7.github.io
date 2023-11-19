@@ -42,10 +42,10 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 # Additional Activities
 - I like sharing knowledge.
   - I used to serve as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
-  - I wrote personal technical blogs (in Chinese though). Most of my blogs could receive a lot of likes and I loved discussing issues with people in the comment section.
+  - I wrote personal technical blogs (in Chinese though). Most of my blogs could receive a lot of likes and I love discussing issues with people in the comment section.
 - When I'm not working, I like to: 
-  - play Ping Pong or try other sports, and watch football games.
-  - stay with my <a href="javascript:void(0);" onclick="toggleImage()">cats</a>,
+  - play Ping Pong, and watch football games.
+  - stay with my adorable <a href="javascript:void(0);" onclick="toggleImage()">cats</a>,
   - read books, including non-fictions and poems.
 <div id="catImage" style="display:none;">
   <img src="/assets/img/cats.jpg" alt="Cat Image" />
