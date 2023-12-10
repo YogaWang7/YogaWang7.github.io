@@ -7,12 +7,12 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Under Review</abbr>
+    <abbr class="badge">AAAI 2024</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="color:#0073B1">Predicting human behavior by integrating game theory and machine learning</div>
-    <div class="author"><strong>Yujia Wang</strong>, Haoran Yu</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="title" style="color:#0073B1">Predicting Real-World Penny Auction Durations by Integrating Game Theory and Machine Learning</div>
+    <div class="author"><strong>Yujia Wang</strong>, Haoran Yu*</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligence, Vancouver, Canada, February 2024 (Acceptance Rate: 23%)</em></div>
     <div class="links">
     <a href="javascript:void(0);" class="btn btn-sm z-depth-0 toggleAbstract" data-abstract="abstractContent1" role="button" style="font-size:12px;">Abstract</a>
       <div id="abstractContent1" style="display:none;background-color: #f5ebe0; color: #003049; font-size: 0.9em; padding: 15px;">  <!--font-style: italic; -->
