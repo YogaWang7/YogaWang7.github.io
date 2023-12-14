@@ -19,18 +19,18 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/experiences.md %}
+<!-- {% include_relative _includes/experiences.md %} -->
 
-<!-- # Awards and Scholarships 
+# Awards and Scholarships 
 - In BIT (2021-Present)
-  - First-class Academic Scholarship.
+  - First-class Academic Scholarship, 2 years in a row.
   - Second-class Freshman Scholarship.
   - Excellent Student Leader.
 - In HZAU (2016-2020)
   - Second-class Academic Scholarship.
   - Merit Student and Excellent League Member, 3 years in a row. 
   - Excellent Student Leader in 2018-2019 (Top 1%).
-  - Second Prize in the National English Competition for College Students (Top 3%). -->
+  - Second Prize in the National English Competition for College Students (Top 3%).
   
 # Internships
 ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
