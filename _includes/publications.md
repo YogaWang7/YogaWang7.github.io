@@ -59,6 +59,8 @@
 </div>
 - Aimed to detect the interactions between genes (e.g., epistasis) by optimizing the structure of the Bayesian Network using the Artificial Fish Swarm Algorithm.
 
+<div class="publications">
+<ol class="bibliography">
 <li>
 <div class="pub-row">
 
