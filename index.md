@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call me Yoga. Now, I am a first-year student Ph.D. student at [The Chinese University of Hong Kong, Shenzhen]([https://english.bit.edu.cn/](https://www.cuhk.edu.cn/en)).  
+Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call me Yoga. Now, I am a first-year student Ph.D. student at The Chinese University of Hong Kong, Shenzhen [(CUHK-Shenzhen)](https://www.cuhk.edu.cn/en) under the supervision of Prof. [Jianwei Huang](https://scholar.google.com/citations?user=QQq52JcAAAAJ&hl=en). And I am also very grateful to work with Prof. Haoran Yu and Prof. Biying Shou.
 
 # Research Interests
 
