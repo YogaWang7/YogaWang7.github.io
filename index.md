@@ -39,10 +39,12 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 - 2023.8-2023.10
   -Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
 <!-- ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China. -->
-<!-- - Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
+<!-- 
+- Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
   - Improved prediction accuracy by 3 times compared to previous methods.
   - Discovered new characteristics of insurance fraud.
-- Cleaned data in the Neo4j Database and investigated potential fraud communities.  -->
+- Cleaned data in the Neo4j Database and investigated potential fraud communities.  
+-->
 
 # Additional Activities
 <!-- - I like sharing knowledge.
