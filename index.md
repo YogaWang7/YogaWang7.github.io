@@ -30,7 +30,7 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
   - Second-class Freshman Scholarship.
   - Excellent Student Leader.
 - In HZAU (2016-2020)
-  - Second-class Academic Scholarship.
+  - Bachelor’s Degree with Distinction from Huazhong Agricultural University. 
   - Merit Student and Excellent League Member, 3 years in a row. 
   - Excellent Student Leader in 2018-2019 (Top 1%).
   - Second Prize in the National English Competition for College Students (Top 3%).
