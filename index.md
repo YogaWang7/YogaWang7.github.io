@@ -15,8 +15,8 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 
 # Education
 
-- I have finished **(Magna cum laude)** an M.Phil. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
-- I have completed **(cum laude)** a B.Sc. in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
+- I have finished **(Magna cum laude)** an M.Phil. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by Prof.[Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
+- I have completed **(cum laude)** a B.Sc. in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by Prof.[Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
 
