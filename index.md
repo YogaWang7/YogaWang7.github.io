@@ -15,7 +15,7 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 
 # Education
 
-- I have finished an M.Phil. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
+- I have finished **(Magna cum laude)** an M.Phil. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
 - I have completed **(cum laude)** a B.Sc. in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
@@ -36,7 +36,9 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
   - Second Prize in the National English Competition for College Students (Top 3%).
   
 # Internships
-### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
+- 2023.8-2023.10
+  -Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
+<!-- ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China. -->
 <!-- - Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
   - Improved prediction accuracy by 3 times compared to previous methods.
   - Discovered new characteristics of insurance fraud.
@@ -45,7 +47,7 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 # Additional Activities
 <!-- - I like sharing knowledge.
   - I used to serve as a volunteer instructor of HZAU, assisting non-computer science students in acquiring computer skills (e.g., fundamental knowledge of data structures and databases).
-  - I wrote personal technical blogs (in Chinese though). Most of my blogs could receive a lot of likes and I love discussing issues with people in the comment section. -->
+  - I wrote personal technical blogs (in Chinese, though). Most of my blogs could receive a lot of likes and I love discussing issues with people in the comment section. -->
 - When I'm not working, I like: 
   - playing Ping Pong, swimming, and watching football games.
   - staying with my adorable <a href="javascript:void(0);" onclick="toggleImage()">cats</a>,
