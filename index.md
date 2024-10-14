@@ -4,17 +4,18 @@ layout: homepage
 
 # About Me
 
-Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call me Yoga. Now I am in my third year of graduate school at [Beijing Institute of Technology](https://english.bit.edu.cn/).  
+Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call me Yoga. Now, I am a first-year student Ph.D. student at [The Chinese University of Hong Kong, Shenzhen]([https://english.bit.edu.cn/](https://www.cuhk.edu.cn/en)).  
 
 # Research Interests
 
-- **AI for good**.
-- Develop and deploy AI solutions to address real-world data-driven problems and create more social impact.
-- Employ an interdisciplinary approach, such as integrating insights from psychology, sociology, and economics, to make AI-based solutions explainable and insightful.
+- **AI, game theory, and human strategic behavior**.
+- **AI for social good**.
+<!-- - Develop and deploy solutions to address real-world data-driven problems and create more social impact.-->
+<!-- - Employ an interdisciplinary approach, such as integrating insights from psychology, sociology, and economics, to make AI-based solutions explainable and insightful.-->
 
 # Education
 
-- I will finish an M.Phil. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
+- I have finished an M.Phil. in Computer Science at Beijing Institute of Technology ([BIT](https://english.bit.edu.cn/)) in 2024, supervised by [Haoran Yu](https://scholar.google.com/citations?hl=en&user=-vZRFXgAAAAJ).
 - I have completed **(cum laude)** a B.Sc. in Computer Science at the Huazhong Agricultural University ([HZAU](http://www.hzau.edu.cn/en/HOME.htm)) in 2020, supervised by [Jianxiao Liu](https://dblp.org/pid/60/8456.html).
 
 {% include_relative _includes/publications.md %}
@@ -22,7 +23,9 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
 <!-- {% include_relative _includes/experiences.md %} -->
 
 # Awards and Scholarships 
-- In BIT (2021-Present)
+- In BIT (2021-2024)
+  - Master's Degree with Distinction of Beijing (Top 5%)
+  - Master's Degree with Distinction from Beijing Institute of Technology (Top 15%)
   - First-class Academic Scholarship, 2 years in a row.
   - Second-class Freshman Scholarship.
   - Excellent Student Leader.
@@ -34,10 +37,10 @@ Hello! My name is Yujia Wang (pronounced as "Yoo-jee-ah Wong"), or you can call 
   
 # Internships
 ### Data Scientist @ Research Institute of [Taikang Insurance Group](https://www.taikang.com/about_en.html), Beijing, China.
-- Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
+<!-- - Given invoice data and insurance case data, applied machine learning techniques to identify fraudulent invoices and cases.
   - Improved prediction accuracy by 3 times compared to previous methods.
   - Discovered new characteristics of insurance fraud.
-- Cleaned data in the Neo4j Database and investigated potential fraud communities. 
+- Cleaned data in the Neo4j Database and investigated potential fraud communities.  -->
 
 # Additional Activities
 - I like sharing knowledge.
